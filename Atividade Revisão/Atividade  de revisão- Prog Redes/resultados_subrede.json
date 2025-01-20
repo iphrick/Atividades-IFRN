@@ -1,0 +1,29 @@
+[
+    {
+        "endereco_rede": "192.0.0.0",
+        "primeiro_host": "192.0.0.1",
+        "ultimo_host": "192.255.255.254",
+        "endereco_broadcast": "192.255.255.255",
+        "mascara_decimal": "255.0.0.0",
+        "mascara_binario": "11111111000000000000000000000000",
+        "num_hosts_validos": 16777214
+    },
+    {
+        "endereco_rede": "192.128.0.0",
+        "primeiro_host": "192.128.0.1",
+        "ultimo_host": "192.255.255.254",
+        "endereco_broadcast": "192.255.255.255",
+        "mascara_decimal": "255.128.0.0",
+        "mascara_binario": "11111111100000000000000000000000",
+        "num_hosts_validos": 8388606
+    },
+    {
+        "endereco_rede": "192.128.0.0",
+        "primeiro_host": "192.128.0.1",
+        "ultimo_host": "192.191.255.254",
+        "endereco_broadcast": "192.191.255.255",
+        "mascara_decimal": "255.192.0.0",
+        "mascara_binario": "11111111110000000000000000000000",
+        "num_hosts_validos": 4194302
+    }
+]
